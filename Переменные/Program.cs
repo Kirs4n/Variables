@@ -19,7 +19,7 @@ namespace Переменные
             float silicon = 2.3f;
             double manganese = 1.7;
             string name = "Unicron";
-            bool alloy = true;
+            bool isAlloy = true;
         }
     }
 }
