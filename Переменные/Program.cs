@@ -10,22 +10,16 @@ namespace Переменные
     {
         static void Main(string[] args)
         {
-            int gold, platinum, silver, titanium, zinc, lithium;
-            float silicon;
-            double manganese;
-            string name;
-            bool alloy;
-            gold = 20;
-            platinum = 34;
-            silver = 21;
-            titanium = 10;
-            zinc = 6;
-            lithium = 5;
-            silicon=2.3f;
-            manganese=1.7;
-            name = "Unicron";
-            alloy = true;
-
+            int gold = 20;
+            int platinum = 34;
+            int silver = 21;
+            int titanium = 10;
+            int zinc = 6;
+            int lithium = 5;
+            float silicon = 2.3f;
+            double manganese = 1.7;
+            string name = "Unicron";
+            bool alloy = true;
         }
     }
 }
